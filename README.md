@@ -2,7 +2,7 @@
 A mod for mcpelauncher-manifest that mimics motion blur in a ***weird way*** ( ͡° ͜ʖ ͡°)
 
 ## Usage:
-1. Compile the source code. <!--Or download from [releases](https://github.com/CrackedMatter/motion-blur-test/releases/latest)-->
+1. Compile the source code. Or download from [releases](https://github.com/CrackedMatter/motion-blur-test/releases/latest)
 2. Open mcpelauncher-manifest, go to settings -> storage -> Open Data Root
 3. Make a folder named `mods` there and put the compiled .so file
 4. Done
